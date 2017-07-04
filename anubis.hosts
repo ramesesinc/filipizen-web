@@ -1,0 +1,5 @@
+default=file:///${osiris.base.dir}/filipizen
+
+www.filipizen.com=file:///${osiris.base.dir}/filipizen
+
+filipizen.com=file:///${osiris.base.dir}/filipizen

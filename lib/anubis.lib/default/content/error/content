@@ -1,0 +1,7 @@
+<h4 style="padding:10px;color:#fff;">
+An error occured.
+</h4>
+
+<pre>
+${ERROR?.stackTrace} 
+</pre> 
